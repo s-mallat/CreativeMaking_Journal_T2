@@ -26,6 +26,9 @@
 <p>
   I'mHome is a prototype flat game that introduces the player to my home country, Lebanon, a small Mediterranean country in the Middle East. The purpose of the game is to counter stereotypical and racist representations of Arab / Middle Eastern countries in the gaming industry.
 </p> 
+<p>
+Note: All Audio files were imported from Freesound.org & <br> all the illustrations + typography were created by me
+</p>
 
 <h3>
   Final Documentation: 
